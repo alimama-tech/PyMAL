@@ -1,7 +1,7 @@
 <h1 align='center'>PyMAL</h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXX-b31b1b" alt="ArXiv"></a>
+  <a href="#"><img src="https://img.shields.io/badge/arXiv-X cXXX.XXXX-b31b1b" alt="ArXiv"></a>
   <a href="#"> <img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"> </a>
   <a href="https://huggingface.co/datasets/alimamaTech/MAC"> <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue' alt="Hugging Face"> </a>
 </p>
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 To reproduce the results of the paper, the [MAC](https://huggingface.co/datasets/alimamaTech/MAC) dataset is required. MAC now is publicly available on [🤗 Hugging Face](https://huggingface.co/datasets/alimamaTech/MAC). You can download the dataset directly via `git clone`:
 ```bash
-git clone https://huggingface.co/datasets/yourname/taobao-mac data
+git clone https://huggingface.co/datasets/alimamaTech/MAC data
 ```
 
 ## Run Experiments
